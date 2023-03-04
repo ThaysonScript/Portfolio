@@ -1,3 +1,3 @@
 # Portfolio
  
-View in Deployment: https://thaysonscript.github.io/Portifolio/src/index.html
+View in Deployment: https://thaysonscript.github.io/Portfolio/src/index.html
