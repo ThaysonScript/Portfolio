@@ -39,11 +39,28 @@
 
 #headerContent {
     display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    border: 1px solid red;
+}
+
+#headerMain {
+    display: flex;
+    flex-flow: column wrap;
     justify-content: center;
     align-items: center;
     width: 50%;
     height: 90vh;
-    border: 1px solid red;
+    border: 5px solid rgb(38, 0, 255);
+}
+
+#headerImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 90vh;
+    border: 5px solid rgb(0, 255, 4);
 }
 
 #mainContainer {
